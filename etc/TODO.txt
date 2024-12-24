@@ -1,0 +1,3 @@
+- algorithmically maximize the Distance Quality function
+- test and compare the algorithm
+- create report and update README.md
